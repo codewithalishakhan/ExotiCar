@@ -20,7 +20,7 @@ File structure:
 2.Second of all, the central part consists of a <strong>BANNER</strong> then it has two <strong>ARTICLES</strong>.<br>
 3.And finally the bottom part consists of 4 coloumns.
 
-<h1>OUTPUT</h1>
+<h1>Screenshots</h1>
 
 
 ![car1](https://user-images.githubusercontent.com/109518128/180512203-eb54156f-0a2f-4f81-b079-2cb3f6343df1.PNG)

@@ -23,8 +23,8 @@ File structure:
 <h1>Screenshots</h1>
 
 
-![car1](https://user-images.githubusercontent.com/109518128/180512203-eb54156f-0a2f-4f81-b079-2cb3f6343df1.PNG)
+<img src=https://user-images.githubusercontent.com/109518128/180512203-eb54156f-0a2f-4f81-b079-2cb3f6343df1.PNG height=100><br>
 
-![car2](https://user-images.githubusercontent.com/109518128/180512242-2db0be25-e2c5-4a42-b874-4b485d1912e7.PNG)
+<img src=https://user-images.githubusercontent.com/109518128/180512242-2db0be25-e2c5-4a42-b874-4b485d1912e7.PNG  height=100><br>
 
-![car3](https://user-images.githubusercontent.com/109518128/180512334-f4ce3208-f5d9-4ee3-9695-1cf8811df94d.PNG)
+<img src=https://user-images.githubusercontent.com/109518128/180512334-f4ce3208-f5d9-4ee3-9695-1cf8811df94d.PNG  height=50>
